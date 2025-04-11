@@ -1,0 +1,7 @@
+streamlit
+deepface
+pandas
+pillow
+openpyxl
+pytz
+opencv-python-headless
